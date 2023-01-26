@@ -1,3 +1,9 @@
+# Solução para o desafio de projeto
+
+Este repositório possui uma solução para o desafio proposto. O link do projeto original é [https://github.com/leonardo-buta/trilha-net-fundamentos-desafio](https://github.com/leonardo-buta/trilha-net-fundamentos-desafio).
+
+Abaixo está o Leia-me original.
+
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
